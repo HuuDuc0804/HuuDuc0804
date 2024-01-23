@@ -1,16 +1,15 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+code+space!+🤖;Excited+to+have+you+here!+😊;🌱+I’m+currently+learning+everything+🤣)
 
-<!--
-**HuuDuc0804/HuuDuc0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="left" height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=huuduc0804&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huuduc0804"/>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img align="center" height=195px src="https://github-readme-stats.vercel.app/api?username=huuduc0804&show_icons=true&locale=en&theme=tokyonight" alt="huuduc0804"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{huuduc0804}/count.svg" />
+  </p> 
+</div>
