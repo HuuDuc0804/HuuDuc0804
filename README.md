@@ -6,6 +6,13 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huuduc0804&theme=tokyonight" alt="huuduc0804" />
   </p>
 </div>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://profile-counter.glitch.me/{huuduc0804}/count.svg" />
+  </p>
+</div>
+
 <p>
   <img align="left" height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=huuduc0804&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huuduc0804"/>
 </p>
@@ -14,12 +21,7 @@
   <img align="center" height=195px src="https://github-readme-stats.vercel.app/api?username=huuduc0804&show_icons=true&locale=en&theme=tokyonight" alt="huuduc0804"/>
 </p>
 
-<div align="center">
-  <p>
-    <img align="center" src="https://profile-counter.glitch.me/{huuduc0804}/count.svg" />
-  </p>
-</div>
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -69,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/nguyenhuuduc9x" target="blank">
