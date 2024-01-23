@@ -2,10 +2,6 @@
 <hr>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{huuduc0804}/count.svg" />
-  </p>
-  <br>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huuduc0804&theme=tokyonight" alt="huuduc0804" />
   </p>
@@ -18,6 +14,11 @@
   <img align="center" height=195px src="https://github-readme-stats.vercel.app/api?username=huuduc0804&show_icons=true&locale=en&theme=tokyonight" alt="huuduc0804"/>
 </p>
 
+<div align="center">
+  <p>
+    <img align="center" src="https://profile-counter.glitch.me/{huuduc0804}/count.svg" />
+  </p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
